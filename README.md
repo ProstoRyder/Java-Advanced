@@ -1,5 +1,4 @@
 # Laboratory Work №1
-**Theme**: Stream API  
 **Author**: IO-24 Denys Denysiuk  
 **Number of the Grade Book**: 2407
 
